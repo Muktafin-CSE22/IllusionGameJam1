@@ -1,0 +1,1 @@
+It is my first game jam project. It is a third person shooter. We have to open the project using unreal engine app and we have to open .uproject file using it. All the blueprints are available in content folder. The project will run using the run button of the editor.
